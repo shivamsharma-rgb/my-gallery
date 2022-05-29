@@ -1,0 +1,108 @@
+div>p{
+      position: relative;
+      left: 25px;
+}
+.d1{
+    background-color: #ddd;
+    position: absolute;
+    left: 546px;
+    top: 270px;
+    width: 100px;
+    height: 67px;
+    border-radius: 10px;
+}
+.d2{
+    
+    background-color: #ddd;
+    position: absolute;
+    left: 670px;
+    top: 270px;
+    width: 100px;
+    height: 67px;
+    border-radius: 10px;
+}
+.d3{
+    background-color: #ddd;
+    position: absolute;
+    left: 794px;
+    top: 270px;
+    width: 100px;
+    height: 67px;
+    border-radius: 10px;
+}
+.p1{
+    position: relative;
+    top: 212px;
+    left: 667px;
+    font-size:15px;
+}
+.p2{
+    position: absolute;
+    top: 1536px;
+    left: 596px;
+    width: 500px;
+    padding-bottom: 10px;
+}
+.i1{
+   position: absolute;
+   left: 641px;
+   top: 60px;
+   width: 156px;
+   height: 156px; 
+   border-radius: 30px;
+}
+.i2{
+    position: absolute;
+    top: 441px;
+    left: 238px;
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.i3{
+    position: absolute;
+    top: 441px;
+    left: 570px;
+    width: 630px;
+    height: 300px;
+    border-radius: 30px;
+}
+.i4{
+    position: absolute;
+    top: 772px;
+    left: 238px;
+    width: 630px;
+    height: 300px;
+    border-radius: 30px;
+}
+.i5{
+    position: absolute;
+    top: 772px;
+    left: 902px;
+    width: 300px;
+    height: 630px;
+    border-radius: 30px;
+}
+.i6{
+    position: absolute;
+    top: 1103px;
+    left: 238px;
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.i7{
+    position: absolute;
+    top: 1103px;
+    left: 570px;
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+@media only screen and(max-width:500px){
+    body{
+        padding-right: 50px;
+        background-color: aquamarine;
+    }
+}
